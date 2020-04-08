@@ -53,9 +53,9 @@ img{
 }
 
 #home {
-    background-image: url(main-bg.jpg);
+    background-image: url(img/無題169.png);
     background-size: cover;
-    height: 260px;
+    height: 300px;
 }
 
 .stamp{
